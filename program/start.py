@@ -92,7 +92,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                      "👨🏻‍💻 ࿋"⌯ H𝗢𝗦𝗦𝗔𝗠 ⌯",࿋👨🏻‍💻", url="https://t.me/H_OS_S_AM"
+                      "👨🏻‍💻࿋⌯H𝗢𝗦𝗦𝗔𝗠⌯࿋👨🏻‍💻", url="https://t.me/H_OS_S_AM"
                     )
                 ],
             ]
@@ -116,11 +116,11 @@ async def alive(client: Client, message: Message):
             ],
             [
                 InlineKeyboardButton(
-                 "• 👑♫︎ ༆"⌯ 𝗦𝗢𝗨𝗥𝗖𝗘 H𝗢𝗦𝗦𝗔𝗠⌯",༆ ♫︎👑 •", url=f"https://t.me/x3j_xj3"
+          "• ♫︎ ༆⌯𝗦𝗢𝗨𝗥𝗖𝗘 H𝗢𝗦𝗦𝗔𝗠⌯༆ ♫︎ •", url=f"https://t.me/x3j_xj3"
                 ),
             ],
             [
-                InlineKeyboardButton("♡اضف البوت الى مجموعتك♡", url=f"https://t.me/MUSIC_VIKING_bot?startgroup=true"),
+               InlineKeyboardButton("🎯 ¦ اضفني لي مجموعتك ¦ 🎯", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
             ]
         ]
     )
@@ -219,9 +219,7 @@ async def new_chat(c: Client, m: Message):
                         ALIVE_NAME, url=f"https://t.me/{ass_uname}"),
                         ],
                         [
-                            InlineKeyboardButton(
-                        "♡اضـف الـبـوت لـمـجـمـوعـتـك♡",
-                        url=f'https://t.me/MUSIC_VIKING_bot?startgroup=true'),
+                            InlineKeyboardButton("🎯 ¦ اضفني لي مجموعتك ¦ 🎯", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
                         ],
                     ]
                 )
