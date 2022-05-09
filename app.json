@@ -70,7 +70,7 @@
             "description": "ضع هنا اسم الحساب المساعد",
             "required": true,
            "value":  "⌯࿃H_OS_S_AM⌯",
-                        url=f"https://t.me/x3j_xj3", 
+                       " url=f"https://t.me/x3j_xj3", 
         },
             "DEV_PHOTO": {
             "description": "هنا هتحط صوره المطور الاساسي بس ب كود jpg",
