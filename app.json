@@ -54,11 +54,7 @@
             "required": true,
             "value": "x3j_xj3"
         },
-       "MONGODB_URL": {
-            "description": "ضع رابط mongodb لو م هتعرف تجيبو تع هنا @H_OS_S_AM",
-            "required": true,
-            "value": 
-
+        
 "OWNER_NAME": {
             "description": "ضع هنا يوزر المطور بدون علامة @",
             "required": true,
